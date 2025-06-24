@@ -1,0 +1,68 @@
+---
+title: "Percepción sobre inmigración en Chile"
+author: "Fernanda Duarte, Antonia Rios, Maite Rojas"
+format:
+  revealjs: 
+    theme: serif
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+## Introducción.
+
+Este estudio investiga cómo la percepción sobre la inmigración en Chile varía según la edad, el sexo y la región de residencia. El objetivo es identificar patrones que vinculen estas características sociodemográficas con la opinión de los chilenos sobre la inmigración, un tema de creciente importancia debido al aumento de los flujos migratorios en la última decada.
+
+## Datos.
+
+::::: columns
+::: {.column width="50%"}
+Utilizamos datos de la Encuesta Latinobarómetro 2020.
+:::
+
+::: {.column width="50%"}
+![](images/unnamed-chunk-1-1.png)
+:::
+:::::
+
+## Resultados.
+
+::::: columns
+::: {.column width="50%"}
+Aquí presentamos el Índice General de Apertura hacia la Inmigración, nuestra medida clave.
+:::
+
+::: {.column width="50%"}
+![](images/unnamed-chunk-3-1.png)
+:::
+:::::
+
+## Resultados.
+
+::::: columns
+::: {.column width="50%"}
+![](images/unnamed-chunk-1-2-01.png)
+:::
+
+::: {.column width="50%"}
+Las personas mayores tienden a tener una percepción más negativa, mientras que las más jóvenes presentan mayor apertura.
+:::
+:::::
+
+## Resultados.
+
+::::: columns
+::: {.column width="50%"}
+También se observan diferencias por sexo, donde las mujeres tienden a tener posturas ligeramente más críticas hacia la inmigración.
+:::
+
+::: {.column width="50%"}
+![](images/unnamed-chunk-6-1.png)
+:::
+:::::
+
+## Conclusión
+
+-   Los patrones de percepción sobre la inmigración en Chile están significativamente influenciados por características sociodemográficas.
+-   La edad emerge como un factor primordial, evidenciando una dicotomía generacional donde las cohortes más jóvenes muestran mayor apertura y las mayores, una postura más cautelosa.
+-   Las diferencias por sexo, aunque más sutiles, indican que las mujeres tienden a una percepción ligeramente más crítica.
